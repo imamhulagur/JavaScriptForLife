@@ -615,35 +615,13 @@ input[type="submit"]:hover {
   color: #fff;
 }
 
-.facebook-icon {
-  padding: 10px 17px;
-  border: 1px solid #44619d;
-  background-color: #44619d;
-}
-
-.facebook-icon:hover {
-  background-color: transparent;
-  color: #fff;
-}
-
-.twitter-icon {
+.github-icon {
   padding: 10px 15px;
-  border: 1px solid #33ccff;
-  background-color: #33ccff;
+  border: 1px solid #111;
+  background-color: #1c2725;
 }
 
-.twitter-icon:hover {
-  background-color: transparent;
-  color: #fff;
-}
-
-.g-plus-icon {
-  padding: 10px 15px;
-  border: 1px solid #dd4c39;
-  background-color: #dd4c39;
-}
-
-.g-plus-icon:hover {
+.github-icon:hover {
   background-color: transparent;
   color: #fff;
 }
@@ -655,6 +633,16 @@ input[type="submit"]:hover {
 }
 
 .linkedin-icon:hover {
+  background-color: transparent;
+  color: #fff;
+}
+.stack-over-icon {
+  padding: 10px 15px;
+  border: 1px solid #ff0000;
+  background-color: #e1711c;
+}
+
+.stack-over-icon:hover {
   background-color: transparent;
   color: #fff;
 }
